@@ -10,6 +10,7 @@ StyleOfLW 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.lwcode.cn/my-github-repos)
 * [测试文章](http://www.lwcode.cn/www.baidu.com)
 * [世界，你好！](http://www.lwcode.cn/hello-solo)
 
